@@ -2,10 +2,18 @@
 
 Notes from following tutorials at https://learning-rust.github.io/docs/index.html
 
+
+---
+## Rust Playground
+
+Try out rust online at https://play.rust-lang.org/
+
+---
 ## Installing
 
 Windows: https://www.rust-lang.org/tools/install
 
+---
 ## Command Line
 
 ### RUST Updater (rustup)
