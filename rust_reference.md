@@ -28,7 +28,7 @@ Windows: https://www.rust-lang.org/tools/install
 |Command                |Description
 |-                      |-
 |rustc --version        |Check version of Rust Compiler
-|rustc &lt;file.rs&gt;  |Compile into target/debug/file.exe
+|rustc &lt;file.rs&gt;  |Compile .rs file into executable
 
 ### Cargo (Bundler/Build Tool)
 
